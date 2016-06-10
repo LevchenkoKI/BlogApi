@@ -1,0 +1,11 @@
+E:\Programms\VisualStudio\GitHub\CoolBlogCore\CoolBlogCoreTests\bin\Debug\CoolBlogCoreTests.dll
+E:\Programms\VisualStudio\GitHub\CoolBlogCore\CoolBlogCoreTests\bin\Debug\CoolBlogCoreTests.pdb
+E:\Programms\VisualStudio\GitHub\CoolBlogCore\CoolBlogCoreTests\bin\Debug\CoolBlogCare.dll
+E:\Programms\VisualStudio\GitHub\CoolBlogCore\CoolBlogCoreTests\bin\Debug\Moq.dll
+E:\Programms\VisualStudio\GitHub\CoolBlogCore\CoolBlogCoreTests\bin\Debug\CoolBlogCare.pdb
+E:\Programms\VisualStudio\GitHub\CoolBlogCore\CoolBlogCoreTests\bin\Debug\Moq.xml
+E:\Programms\VisualStudio\GitHub\CoolBlogCore\CoolBlogCoreTests\obj\Debug\CoolBlogCoreTests.csprojResolveAssemblyReference.cache
+E:\Programms\VisualStudio\GitHub\CoolBlogCore\CoolBlogCoreTests\obj\Debug\CoolBlogCoreTests.dll
+E:\Programms\VisualStudio\GitHub\CoolBlogCore\CoolBlogCoreTests\obj\Debug\CoolBlogCoreTests.pdb
+E:\Programms\VisualStudio\GitHub\CoolBlogCore\CoolBlogCoreTests\bin\Debug\Newtonsoft.Json.dll
+E:\Programms\VisualStudio\GitHub\CoolBlogCore\CoolBlogCoreTests\bin\Debug\Newtonsoft.Json.xml

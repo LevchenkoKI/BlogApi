@@ -1,0 +1,5 @@
+E:\Programms\VisualStudio\GitHub\CoolBlogCare\CoolBlogCare\obj\Debug\CoolBlogCare.csprojResolveAssemblyReference.cache
+E:\Programms\VisualStudio\GitHub\CoolBlogCare\CoolBlogCare\bin\Debug\CoolBlogCare.dll
+E:\Programms\VisualStudio\GitHub\CoolBlogCare\CoolBlogCare\bin\Debug\CoolBlogCare.pdb
+E:\Programms\VisualStudio\GitHub\CoolBlogCare\CoolBlogCare\obj\Debug\CoolBlogCare.dll
+E:\Programms\VisualStudio\GitHub\CoolBlogCare\CoolBlogCare\obj\Debug\CoolBlogCare.pdb
